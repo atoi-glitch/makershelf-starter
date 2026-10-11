@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://atoi-glitch.github.io/makershelf-starter/</loc>
-  </url>
-
-  <url>
-    <loc>https://atoi-glitch.github.io/makershelf-starter/tools.html</loc>
-  </url>
-
-  <url>
-    <loc>https://atoi-glitch.github.io/makershelf-starter/blog.html</loc>
-  </url>
-
-  <url>
-    <loc>https://atoi-glitch.github.io/makershelf-starter/disclosure.html</loc>
-  </url>
-
-  <url>
-    <loc>https://atoi-glitch.github.io/makershelf-starter/blog/everbee-vs-erank.html</loc>
-  </url>
-
+  <url><loc>https://atoi-glitch.github.io/makershelf-starter/</loc></url>
+  <url><loc>https://atoi-glitch.github.io/makershelf-starter/tools.html</loc></url>
+  <url><loc>https://atoi-glitch.github.io/makershelf-starter/blog.html</loc></url>
+  <url><loc>https://atoi-glitch.github.io/makershelf-starter/disclosure.html</loc></url>
+  <url><loc>https://atoi-glitch.github.io/makershelf-starter/blog/everbee-vs-erank.html</loc></url>
+  <url><loc>https://atoi-glitch.github.io/makershelf-starter/blog/best-etsy-seo-tools-2026.html</loc></url>
 </urlset>
